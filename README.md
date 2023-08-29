@@ -1,4 +1,4 @@
-_This repo is archived. If you are looking for the latest, check out [open-sauced/insights](https://github.com/open-sauced/insights) or [open-sauced/hot](https://github.com/open-sauced/hot)._
+_This repo is archived. If you are looking for the latest, check out **ok[open-sauced/insights](https://github.com/open-sauced/insights) or [open-sauced/hot](https://github.com/open-sauced/hot)._
 
 <div align="center">
   <br>
